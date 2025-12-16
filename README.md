@@ -16,4 +16,4 @@ system-level understanding and decision-making.
 - **Performance Monitoring of Compressors**  
   Practical approaches to compressor performance tracking, degradation detection,
   and reliability insights using operational data.  
-  👉 [Open PDF](docs/PerformancemonitoringCompressors.pdf)
+  👉 [Open PDF](PerformancemonitoringCompressors.pdf)
