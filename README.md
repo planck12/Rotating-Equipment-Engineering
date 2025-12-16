@@ -10,9 +10,8 @@ and industrial time-series analysis applied to rotating equipment and turbomachi
 
 ## Papers
 
-  - **Performance Monitoring of Compressors and Turbomachinery**  
-  [PDF](Improve Performace Monitoring of Turbomachinery_Umeet Bhachu.pdf)
-
+- **Performance Monitoring of Compressors and Turbomachinery**  
+  [PDF](Improve Performance Monitoring of Turbomachinery_Umeet Bhachu.pdf)
 
 - 📄 **Laplace and Weibull Testing on Mechanical Seals and Seal Reliability**  
   [PDF](Laplace%20and%20Weibull%20Testing%20on%20Mechanical%20Seals%20and%20Seal%20Reliability.pdf)
