@@ -26,7 +26,7 @@ system-level understanding and decision-making.
 - **Reliability-Centered Maintenance (RCM)**  
   Application of reliability-centered maintenance principles for rotating equipment,
   focusing on failure modes, maintenance strategies, and asset risk management.  
-  👉 [Open PDF](Reliabilitycenteredmaintenance.pdf)
+  👉 [Open PDF](Reliabilitycenteredmaintenence.pdf)
 
 - **Weibull Analysis for Mechanical Seal Reliability**  
   Statistical reliability modeling of mechanical seal failures using Weibull
