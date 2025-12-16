@@ -7,7 +7,7 @@ This repository hosts technical articles on nonlinear causality,
 transfer entropy, and industrial time-series analysis.
 
 📄 Paper:
-[PDF](RCM_Reliability%20Centered%20Maintenance_UmeetBhachu.pdf)
+Improve Performace Monitoring of Turbomachinery_Umeet Bhahu.pdf
 
 
 - Performance monitoring of Compressor and Turbines
