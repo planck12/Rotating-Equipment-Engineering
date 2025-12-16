@@ -8,12 +8,6 @@ and industrial time-series analysis applied to rotating equipment and turbomachi
 
 ---
 ## Papers
-- [Performance Monitoring of Compressors and Turbomachinery](Improve Performance Monitoring of Turbomachinery_Umeet Bhachu.pdf)
+- [Performance Monitoring of Compressors and Turbomachinery](Improve_Performance_Monitoring_of_Turbomachinery_Umeet_Bhachu.pdf)
 
-
-📄 [Laplace and Weibull Testing on Mechanical Seals and Seal Reliability](Laplace and Weibull Testing on Mechanical Seals and Seal Reliability.pdf)
-
-📄 [Pump Life Cycle Costing and Performance Analysis](Pump Life Cycle costing and Performance Analysis.pdf)
-
-📄 [Reliability Centered Maintenance (RCM)](RCM_Reliability Centered Maintenance_UmeetBhachu.pdf)
 
